@@ -4,20 +4,16 @@
 <head>
     <meta charset="UTF-8">
     <link rel="stylesheet" type="text/css" href="https://cdn.bootcss.com/bootstrap/3.3.0/css/bootstrap.min.css">
-    <script type="text/javascript" src="http://140.143.56.43/js/jquery.min.js"></script>
+    <script type="text/javascript" src="https://cdn.bootcss.com/jquery/3.2.1/jquery.min.js"></script>
     <script type="text/javascript" src="https://cdn.bootcss.com/bootstrap/4.1.0/js/bootstrap.min.js"></script>
 
-<#--fileinput的css文件-->
+    <#--fileinput的css文件-->
     <link rel="stylesheet" type="text/css" href="http://140.143.56.43/css/fileinput.min.css">
     <link rel="stylesheet" type="text/css" href="http://140.143.56.43/css/fileinput-rtl.min.css">
-<#--fileinput的JS文件-->
+    <#--fileinput的JS文件-->
     <script type="text/javascript" src="http://140.143.56.43/js/fileinput.min.js"></script>
-<#--fileinput的中文包-->
+    <#--fileinput的中文包-->
     <script type="text/javascript" src="http://140.143.56.43/js/fileinput.zh.js"></script>
-<#--zoomify图片放大的css文件-->
-    <link rel="stylesheet" type="text/css" href="http://140.143.56.43/css/zoomify.min.css">
-<#--zoomify图片放大JS文件-->
-    <script type="text/javascript" src="http://140.143.56.43/js/zoomify.min.js"></script>
     <script type="text/javascript">
 
         $(function () {
