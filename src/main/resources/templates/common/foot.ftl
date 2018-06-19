@@ -1,7 +1,7 @@
     <div class="dibu">
         <div class="foot_left" style="width: 36%;height: 100%;float:left">
             <#--class="db_img1"-->
-            <img src="image/erweima.jpg" style="width: 110px;height:110px;margin-top: 60px;margin-left: 30px;float:left" />
+            <img src="http://140.143.56.43/image/erweima.jpg" style="width: 110px;height:110px;margin-top: 60px;margin-left: 30px;float:left" />
             <#--class="lis"-->
             <div style="width:240px;height:110px;float:left;margin-top: 65px;margin-left: 10px;color:#7b818d;font-size: 15px;">
                 <p>手机：13582159869</p>
@@ -34,7 +34,7 @@
 
         </div>
         <div style="width: 20%;height: 100%;float:right;position:relative;">
-            <img src="image/tb_url.png" class="db_img2" />
+            <img src="http://140.143.56.43/image/tb_url.png" class="db_img2" />
 
             <div class="tb_title">
                 <p>技术支持</p>

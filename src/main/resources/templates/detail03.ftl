@@ -17,7 +17,7 @@
                                 <div style="line-height:27px; width:650px; font-weight:bold; font-size:13px; color:#ff7400;">
                                     天然鱿鱼油（98%）
                                 </div>
-                                <img src="/image/single03.jpg" border="0"style="margin:10px;">
+                                <img src="http://140.143.56.43/image/single03.jpg" border="0"style="margin:10px;">
                             </td>
                         </tr>
                         <tr>
@@ -25,9 +25,9 @@
                                 <hr style="border:2px solid #EEEEEE">
                                 <div style="line-height:1.8;margin:10px auto 0 auto; width:100%;"><strong>详细：</strong><Br>
                                     <p>
-                                        <img style="WIDTH: 277px; HEIGHT: 199px" border=0 src="/image/single03.jpg"
+                                        <img style="WIDTH: 277px; HEIGHT: 199px" border=0 src="http://140.143.56.43/image/single03.jpg"
                                             width=299 height=199>
-                                        <img style="WIDTH: 263px; HEIGHT: 200px" border=0 src="/image/single03.jpg"
+                                        <img style="WIDTH: 263px; HEIGHT: 200px" border=0 src="http://140.143.56.43/image/single03.jpg"
                                             width=354 height=355>
                                     </p>
                                     <p><strong>标准： </strong>企业标准</p>

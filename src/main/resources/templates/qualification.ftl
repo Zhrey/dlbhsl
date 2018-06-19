@@ -10,12 +10,12 @@
         </div>
 
         <div class="about_content">
-            <img src="../image/qualification01.jpg" style="width: 350px;height: 390px;margin:20px 0 0 20px"/>
-            <img src="../image/qualification02.jpg" style="width: 350px;height: 390px;margin:20px 0 0 20px"/>
+            <img src="http://140.143.56.43/image/qualification01.jpg" style="width: 350px;height: 390px;margin:20px 0 0 20px"/>
+            <img src="http://140.143.56.43/image/qualification02.jpg" style="width: 350px;height: 390px;margin:20px 0 0 20px"/>
         </div
     </div>
 </div>
 <#include "common/foot.ftl">
-<script type="text/javascript" src="js/theme.js"></script>
+<script type="text/javascript" src="http://140.143.56.43/js/theme.js"></script>
 </body>
 </html>
