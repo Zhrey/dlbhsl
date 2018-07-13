@@ -29,7 +29,8 @@
             <div style="text-align: center;">
                 <span style="background-color: transparent;"></span>
             </div>
-            <div class="dxia">Copyright © 2018 大连渤海饲料有限公司 版权所有&nbsp;辽ICP备xxxxxxx号
+            <div class="dxia">Copyright © 2018 大连渤海饲料有限公司 版权所有&nbsp;
+                <a href="http://www.miitbeian.gov.cn" target="_blank">辽ICP备18010527号-1</a>
             </div>
 
         </div>
@@ -43,6 +44,15 @@
         </div>
 
     </div>
+    <script>
+        var _hmt = _hmt || [];
+        (function() {
+            var hm = document.createElement("script");
+            hm.src = "https://hm.baidu.com/hm.js?1589fa27521ce49c3d4fa8a6957aeb71";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
 
 </body>
 </html>
