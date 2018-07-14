@@ -16,7 +16,7 @@
             <div style="width: 800px;height: 650px;margin-top: 12px;">
                 <div style="position: absolute;color: white;font-size: 26px;width:800px">
                     <div style="width:50%;height:300px;overflow:hidden;float: left">
-                        <img src="http://140.143.56.43/image/dalian.jpg" style="opacity:1;height: 100%;width: 100%;background: #333;">
+                        <img src="image/dalian.jpg" style="opacity:1;height: 100%;width: 100%;background: #333;">
                     </div>
                     <div style="height:90px;bottom:300px;width:50%;background:rgba(0,0,0,0.5);position: absolute;left: 0;;margin: auto;">
                         <p style="text-align:center !important; margin-top:5%;">辽宁大连</p>
@@ -31,13 +31,13 @@
                         <p style="text-align:center !important; margin-top:5%;">江苏连云港</p>
                     </div>
                     <div style="width:50%;height:300px;overflow:hidden;float: left">
-                        <img src="http://140.143.56.43/image/qingdao.jpg" style="opacity:1;height: 100%;width: 100%;background: #333;">
+                        <img src="image/qingdao.jpg" style="opacity:1;height: 100%;width: 100%;background: #333;">
                     </div>
                     <div style="width:50%;height:300px;overflow:hidden;float: left">
-                        <img src="http://140.143.56.43/image/cangzhou.jpg" style="opacity:1;height: 100%;width: 100%;background: #333;">
+                        <img src="image/cangzhou.jpg" style="opacity:1;height: 100%;width: 100%;background: #333;">
                     </div>
                     <div style="width:50%;height:300px;overflow:hidden;float: left">
-                        <img src="http://140.143.56.43/image/lianyungang.jpg" style="opacity:1;height: 100%;width: 100%;background: #333;">
+                        <img src="image/lianyungang.jpg" style="opacity:1;height: 100%;width: 100%;background: #333;">
                     </div>
                 </div>
             </div>
@@ -45,6 +45,6 @@
     </div>
 </div>
 <#include "common/foot.ftl">
-<script type="text/javascript" src="http://140.143.56.43/js/theme.js"></script>
+<script type="text/javascript" src="js/theme.js"></script>
 </body>
 </html>

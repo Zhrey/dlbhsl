@@ -21,6 +21,6 @@
     </div>
 </div>
 <#include "common/foot.ftl">
-<script type="text/javascript" src="http://140.143.56.43/js/theme.js"></script>
+<script type="text/javascript" src="js/theme.js"></script>
 </body>
 </html>
