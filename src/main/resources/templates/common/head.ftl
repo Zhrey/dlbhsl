@@ -7,47 +7,22 @@
     <title>大连渤海饲料有限公司</title>
     <meta name="keywords" content="大连,饲料,鱼粉,鱿鱼膏,鱼油,诱食剂,虾饲料,对虾饲料" />
     <meta name="description" content="">
-    <script type="text/javascript" src="js/home.js"></script>
+    <script type="text/javascript" src="http://140.143.56.43/js/home.js"></script>
     <link rel="stylesheet" href="https://cdn.bootcss.com/bootstrap/4.1.0/css/bootstrap.min.css">
     <script src="https://cdn.bootcss.com/jquery/3.2.1/jquery.min.js"></script>
     <script src="https://cdn.bootcss.com/bootstrap/4.1.0/js/bootstrap.min.js"></script>
-    <link rel="stylesheet" type="text/css" href="css/common.css">
-    <link rel="stylesheet" href="css/theme.css">
-    <style>
-        .swiper-container {
-            width: 100%;
-            height: 100%;
-        }
-        .swiper-slide {
-            text-align: center;
-            font-size: 18px;
-            background: #fff;
-
-            /* Center slide text vertically */
-            display: -webkit-box;
-            display: -ms-flexbox;
-            display: -webkit-flex;
-            display: flex;
-            -webkit-box-pack: center;
-            -ms-flex-pack: center;
-            -webkit-justify-content: center;
-            justify-content: center;
-            -webkit-box-align: center;
-            -ms-flex-align: center;
-            -webkit-align-items: center;
-            align-items: center;
-        }
-    </style>
+    <link rel="stylesheet" type="text/css" href="http://140.143.56.43/css/common.css">
+    <link rel="stylesheet" href="http://140.143.56.43/css/theme.css">
 </head>
 <body>
 <div class="top_bj">
     <div class="top">
-        <img src="image/22_03.jpg" class="top_img1"/>
+        <img src="http://140.143.56.43/image/22_03.jpg" class="top_img1"/>
         &nbsp;&nbsp;&nbsp;<strong style=" font-size:26px;line-height: 300%;
         color: #1c94c4;font-family: KaiTi;">大连渤海饲料有限公司</strong>
         <span style="color: #1c94c4;"><strong><span style="font-size:24px;margin-right: 10%;
         float:right;line-height: 320%;font-family: KaiTi;">&nbsp;13304089698 白经理</span></strong></span>
-        <img src="image/phone.jpg"  class="top_img2" />
+        <img src="http://140.143.56.43/image/phone.jpg"  class="top_img2" />
     </div>
 </div>
     <div class="menu_bj">
@@ -81,13 +56,13 @@
             <!-- 轮播图片 -->
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img src="/image/banner01.jpg" style="width:100%;height: 480px" >
+                    <img src="http://140.143.56.43/image/banner01.jpg" style="width:100%;height: 480px" >
                 </div>
                 <div class="carousel-item">
-                    <img src="/image/banner02.jpg" style="width:100%;height: 480px" >
+                    <img src="http://140.143.56.43/image/banner02.jpg" style="width:100%;height: 480px" >
                 </div>
                 <div class="carousel-item">
-                    <img src="/image/banner03.jpg" style="width:100%;height: 480px" >
+                    <img src="http://140.143.56.43/image/banner03.jpg" style="width:100%;height: 480px" >
                 </div>
             </div>
 
@@ -99,23 +74,7 @@
                 <span class="carousel-control-next-icon"></span>
             </a>
         </div>
-        <!-- Initialize Swiper -->
         <script>
-            var swiper = new Swiper('.swiper-container', {
-                loop : true,
-                pagination: {
-                    el: '.swiper-pagination'
-                },
-                navigation: {
-                    nextEl: '.swiper-button-next',
-                    prevEl: '.swiper-button-prev'
-                },
-                autoplay: {
-                    delay: 3000 //1秒切换一次
-                },
-                effect : 'fade'
-            });
-            
             function setLeft() {
                 document.getElementById('aboutus').style.display='';
                 console.log($('#about').offset().left);

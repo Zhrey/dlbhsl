@@ -1,7 +1,7 @@
     <div class="dibu">
         <div class="foot_left" style="width: 36%;height: 100%;float:left">
             <#--class="db_img1"-->
-            <img src="image/erweima.jpg" style="width: 110px;height:110px;margin-top: 60px;margin-left: 30px;float:left" />
+            <img src="http://140.143.56.43/image/erweima.jpg" style="width: 110px;height:110px;margin-top: 60px;margin-left: 30px;float:left" />
             <#--class="lis"-->
             <div style="width:240px;height:110px;float:left;margin-top: 65px;margin-left: 10px;color:#7b818d;font-size: 15px;">
                 <p>手机：13582159869</p>
@@ -29,12 +29,13 @@
             <div style="text-align: center;">
                 <span style="background-color: transparent;"></span>
             </div>
-            <div class="dxia">Copyright © 2018 大连渤海饲料有限公司 版权所有&nbsp;辽ICP备xxxxxxx号
+            <div class="dxia">Copyright © 2018 大连渤海饲料有限公司 版权所有&nbsp;
+                <a href="http://www.miitbeian.gov.cn" target="_blank">辽ICP备18010527号-1</a>
             </div>
 
         </div>
         <div style="width: 20%;height: 100%;float:right;position:relative;">
-            <img src="image/tb_url.png" class="db_img2" />
+            <img src="http://140.143.56.43/image/tb_url.png" class="db_img2" />
 
             <div class="tb_title">
                 <p>技术支持</p>
@@ -43,6 +44,15 @@
         </div>
 
     </div>
+    <script>
+        var _hmt = _hmt || [];
+        (function() {
+            var hm = document.createElement("script");
+            hm.src = "https://hm.baidu.com/hm.js?1589fa27521ce49c3d4fa8a6957aeb71";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
 
 </body>
 </html>
