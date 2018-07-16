@@ -6,7 +6,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=7" />
     <title>大连渤海饲料有限公司</title>
     <meta name="keywords" content="大连,饲料,鱼粉,鱿鱼膏,鱼油,诱食剂,虾饲料,对虾饲料" />
-    <meta name="description" content="">
+    <meta name="description" content="大连渤海饲料有限公司是一家致力于生产和销售脱脂鱼粉，鱿鱼膏，
+        鱼油等虾饲料的现代化饲料企业。工厂现有两条湿法鱼粉生产线，一条鱿鱼膏生产线。">
     <script type="text/javascript" src="js/home.js"></script>
     <link rel="stylesheet" href="https://cdn.bootcss.com/bootstrap/4.1.0/css/bootstrap.min.css">
     <script src="https://cdn.bootcss.com/jquery/3.2.1/jquery.min.js"></script>
