@@ -18,9 +18,9 @@
         <div style="width: 42%;height: 100%;float:left;position:relative;">
             <font style="color: rgb(123, 129, 141);" color="#7b818d">
                 <div style="text-align: center;margin-left:90px;position:absolute; left:16%; top:60px;">
-                    <span style="font-size: 16px;">（9:00-21:00）</span>
+                    <span style="font-size: 16px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（9:00-21:00）</span>
                 </div>
-                <div style="text-align: center;position:absolute; left:27%; top:120px;">
+                <div style="text-align: center;position:absolute; left:27%; top:105px;">
                         <span style="background-color: transparent;">
                             <span style="font-size: 16px;">QQ联系方式:258506508</span>
                         </span>
@@ -29,8 +29,10 @@
             <div style="text-align: center;">
                 <span style="background-color: transparent;"></span>
             </div>
-            <div class="dxia">Copyright © 2018 大连渤海饲料有限公司 版权所有&nbsp;
-                <a href="http://www.miitbeian.gov.cn" target="_blank">辽ICP备18010527号</a>
+            <div class="dxia">&nbsp;&nbsp;Copyright © 2018 大连渤海饲料有限公司 版权所有&nbsp;</br>
+                <a href="http://www.miitbeian.gov.cn" target="_blank">辽ICP备18010527号</a>&nbsp;&nbsp;&nbsp;&nbsp;
+                <a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=21021302000182"
+                   target="_blank">辽公网安备 21021302000182号</a>
             </div>
 
         </div>
