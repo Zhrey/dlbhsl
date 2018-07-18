@@ -41,7 +41,7 @@ html, body, div, h1, h2, h3, h4, h5, h6, hr,  blockquote, dl, dt, dd, ul, ol, li
 
 .news_img{ padding-top:20px;}
 .pro_img a{ display:block; float:left; text-align:center; line-height:30px; padding:5px; width:240px;}
-.news{ width:1100px; margin:0 auto; height:270px; padding:25px 0;}
+.news{ width:1100px; margin:0 auto; height:350px; padding:25px 0;}
 .news_xun{ width:670px;height:255px;float:left;}
 .news_title{ height:35px; background:#fafafa; position:relative;}
 .news_title span{display:block; position:relative; float:left; height:35px; background:#1c94c4; color:#FFFFFF; font-weight:bold; width:90px; text-align:center; line-height:35px;}
