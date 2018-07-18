@@ -50,24 +50,10 @@
         </div>
     </div>
     <div class="news_dong">
-        <div class="news_title"><span>常见问题</span><a href="javascript:void(0)"><img src="image/22_17.jpg" border="0" /></a></div>
-        <ul>
-
-            <li>·<a href="javascript:void(0)" title="欢迎光临中国著名畅销十佳品牌">欢迎光临中国著名畅销十佳品牌</a></li>
-
-            <li>·<a href="javascript:void(0)" title="携手科技，共享成功！">携手科技，共享成功！</a></li>
-
-            <li>·<a href="javascript:void(0)" title="大连渤海饲料有限公司">大连渤海饲料有限公司</a></li>
-
-            <li>·<a href="javascript:void(0)" title="总经理携全体员工竭诚为您服务。">总经理携全体员工竭诚为您服务。</a></li>
-
-            <li>·<a href="javascript:void(0)" title="公司常年招聘全国各地经销商">公司常年招聘全国各地经销商</a></li>
-
-            <li>·<a href="javascript:void(0)" title="欢迎来人来电洽谈合作！">欢迎来人来电洽谈合作！</a></li>
-
-            <li>·<a href="javascript:void(0)" title="大连渤海热线：0411-87781028">大连渤海热线：0411-87781028</a></li>
-
-        </ul>
+        <div class="news_title"><span>资质荣誉</span><a href="/qualification"><img src="image/22_17.jpg" border="0" /></a></div>
+        <div style="padding-top:20px;">
+            <img src="image/qualification02.jpg" border="0" style="width:285px;height: 205px;" />
+        </div>
     </div>
 </div>
 <div class="case">
